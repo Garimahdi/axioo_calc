@@ -1,0 +1,25 @@
+No,Lokasi,Department,Merk Printer,Type Printer,Pemakaian 1 bulan (lembar),"Penggantian part/toner dalam 1 bulan 
+(Maret 2024)","Penggantian part/toner dalam 1 bulan 
+(April 2024)",CLR Speed (ppm),BW Speed (ppm)
+1,Office lt.1 Ruang CS IT Clinic,IT Clinic,HP ,107 A Black and White,1000,,,0.0,21.0
+3,Office Lt.2 Ruang Project,Project,Canon,G3010 Color,200,,,5.0,8.8
+4,Office lt.2 Ruang Legal,Legal,HP ,Office Jet 7720 Color,300,,,18.0,22.0
+5,Office lt.2 Ruang HR,HR,Canon,IP 2770 Color,100,,,4.8,7.0
+6,Office lt. Ruang SCM,SCM,HP ,M183 FW Color,6000,03/05/2024 Refil tinta warna dan hitam,,17.0,17.0
+7,Office lt. Ruang SCM,SCM,Epson ,L300 Color,1000,,Printer L300 tidak bisa nyala dan printer Hp mfp183fw nyala tidak bisa print,4.5,9.0
+8,Office lt. Ruang SCM,SCM,HP ,107 A Black and White,200,,,0.0,21.0
+10,Office Lt.3 Ruang Marcom,Marcom,Epson ,L14150 Color,8000,,"Printer notif Error Code '000025'
+2x kejadian (tgl 16 April dan 26 April 2024)",24.0,38.0
+11,Office Lt.3 Ruang Marcom,Marcom,Canon,IX 6770 Color,2000,,,10.4,14.5
+12,Office Lt.4 Ruang Finance,Finance,Epson ,L360 Color,200,,,15.0,33.0
+15,Office Lt.4 Ruang Accounting,Accounting,Epson ,L4260 Color,3000,,,5.0,10.5
+16,Office Lt.4 Ruang Accounting,Accounting,HP ,M 128 FN Black and white,1000,,,0.0,21.0
+19,Container lt.1 Warehouse Office,Accounting,HP,107 A Black and White,1600,,,0.0,21.0
+22,Container lt.2 Gudang G005,Accounting,Epson,M1100 Black and White,1000,,,0.0,15.0
+23,Container lt.2 Gudang G005,Accounting,Epson,M1100 Black and White,500,,,0.0,15.0
+25,Warehouse area outgoing,Warehouse,HP,107 A Black and White,950,,Printer tidak bisa tarik kertas,0.0,21.0
+26,Warehouse area outgoing,Warehouse,HP,107 A Black and White,1200,,Printer Nyangkut tidak bisa tarik kertas,0.0,21.0
+27,Warehouse area outgoing,Warehouse,HP,107 A Black and White,1000,,,0.0,21.0
+29,Warehouse area project,Warehouse,HP,107 A Black and White,750,,,0.0,21.0
+31,Container lt.1 Ruang Repair,Produksi,HP,107 A Black and White,500,,,0.0,21.0
+32,Gedung Produksi lt.2 ,Produksi,Canon,IP 2770 Color,100,03/26/2024 Refil tinta kuning,hasil Print warna hitam tidak jelas ,4.8,7.0
